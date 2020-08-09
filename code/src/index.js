@@ -1,3 +1,3 @@
-import {day01} from './module/day01';
+import {day} from './module/day.js';
 
-day01();
+export {day}
