@@ -11,11 +11,17 @@
 2. 在github 建立新的專案
 </br>
 
-![github new repo]()
+ ![githubrepo](https://raw.githubusercontent.com/tp953704/IT-Contest/master/img/%E9%96%8B%E7%99%BC%E7%92%B0%E5%A2%83/github%E6%96%B0%E5%BB%BA%E5%B0%88%E6%A1%88.png)
+
+
 3. 輸入專案命字，這裡我會先點開初始化read.me的選項
+
 4. 然後在Licenses這裡輸入MIT，點選第一個選項，如附圖
+
 </br>
+
 ![github設定](https://raw.githubusercontent.com/tp953704/IT-Contest/master/img/%E9%96%8B%E7%99%BC%E7%92%B0%E5%A2%83/githubMIT.png)
+
 5. 點擊創建
    - 登登會出現這一的畫面喔，代表你的專案創建成功了
    </br>
@@ -26,4 +32,7 @@
    - https://github.com/<用戶名稱>/<專案名稱>.git
 
 7. 然後到本地端創建一個資料夾，並開啟終端機 輸入 git clone <自己的github位置>
+
+</br>
+
   ![gitclone](https://raw.githubusercontent.com/tp953704/IT-Contest/master/img/%E9%96%8B%E7%99%BC%E7%92%B0%E5%A2%83/gitclone.png)
