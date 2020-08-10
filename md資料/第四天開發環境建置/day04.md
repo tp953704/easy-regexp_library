@@ -1,12 +1,20 @@
 在開發前，先將環境建置好，在開始開發吧
 
-### 環境建置
-這篇文章，將會以github做版本管理 並將文檔傳到npm上
+### 環境建置 - 版本控管
+</br>
+
+1. 先去github進行註冊
+
+2. 在github 建立新的專案
+
+3. 輸入專案命字，這裡我會先點開初始化read.me的選項
+
+4. 然後在Licenses這裡輸入MIT，點選第一個選項
+
+5. 點擊創建
+
+6. 複製自己的github 位置
+
+7. 然後到本地端創建一個資料夾，並開啟終端機 輸入 git clone <自己的github位置>
 
 
-
-
-
-##### 參考資料
-npm官方文檔(https://docs.npmjs.com/)
-How to create a NPM Scoped Package from an Original Pacakge?(http://blog.pulipuli.info/2019/06/npm-how-to-create-anpmscoped-package.html)
