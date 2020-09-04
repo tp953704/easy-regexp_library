@@ -34,9 +34,13 @@ npm install <套件名稱>
 
 3. npm常用縮寫
 
+#### 補充 npm ci vs npm i 
+有時我們輸入npm i 的時候 Npm會幫我們做小更新，(邪惡的npm 怒)，
+因此在專案執行期間，我們會以npm ci來代替npm i，以避免某個套件新，照成其他套件的不相容。
+
 ```
 //是npm install 的縮寫
-npm i
+npm i // npm ci
 
 //是npm install -save
 npm i -S
